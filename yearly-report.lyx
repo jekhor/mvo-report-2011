@@ -1,0 +1,850 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass extarticle
+\begin_preamble
+
+
+\usepackage[russian]{babel}
+\usepackage{indentfirst}\usepackage{fix-cm}
+
+
+
+
+
+
+\usepackage{babel}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language russian
+\language_package default
+\inputencoding utf8
+\fontencoding T2A
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 0
+\use_mathdots 0
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Предметный указатель
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Что хотели и что получили
+\end_layout
+
+\begin_layout Subsection
+Создание
+\end_layout
+
+\begin_layout Standard
+ОО 
+\begin_inset Quotes ard
+\end_inset
+
+Минское велосипедное общество
+\begin_inset Quotes ald
+\end_inset
+
+ было создано в марте 2011 года инициативными велосипедистами города Минска
+ и не только для того, чтобы получить легальный инструмент по защите своих
+ интересов и продвижению идей велосипедного транспорта, как в городе, так
+ и за его пределами.
+ Общество было зарегистрировано как местное, территория деятельности ---
+ Минск и Минская область.
+\end_layout
+
+\begin_layout Subsection
+Направления деятельности
+\end_layout
+
+\begin_layout Standard
+В начале существования организации было решено выбрать следующие направления
+ деятельности: 
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+Развитие городской велоинфраструктуры
+\end_layout
+
+\end_inset
+
+ --- работа по содействию созданию велотранспортной инфраструктуры в городе
+ Минске; 
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+Казуальный велотуризм
+\end_layout
+
+\end_inset
+
+ --- развитие велотуризма в 
+\begin_inset Quotes ard
+\end_inset
+
+западном
+\begin_inset Quotes ald
+\end_inset
+
+ понимании, доступного для всех людей, а не только для спортсменов и 
+\begin_inset Quotes ard
+\end_inset
+
+экстремалов
+\begin_inset Quotes ald
+\end_inset
+
+; 
+\end_layout
+
+\begin_layout Subsection
+Задачи на 2011 год
+\end_layout
+
+\begin_layout Standard
+Опыта стратегического планирования у Правления не было, но всё же в качестве
+ ориентиров были сформулированы следующие задачи на 2011 год (цитата из
+ резюме встречи Правления): 
+\end_layout
+
+\begin_layout Enumerate
+Построить устойчиво существующую организацию.
+ Т.е., которая бы активно действовала, и при этом не требовала для своего
+ существования каких-то искусственных вливаний (денежных, трудовых или иных).
+ Организация не должна держаться на 1-2 человеках, безболезненно переживая
+ уход/приход некоторого количества активистов.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Привлечь в свои ряды 1000 членов.
+ Число взято с потолка, чтобы было к чему стремиться.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Стать формальным или неформальным представителем интересов велосипедистов
+ в органах городского управления.
+ Т.е., про нас должны знать, и при возникновении любых вопросов типа "а что
+ думают велосипедисты по этому поводу" сразу же должно всплывать наше ОО.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Добиться принятия и участвовать в реализации городской программы по развитию
+ велосипедного движения.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Войти в проект EuroVelo и составить проект сети туристических маршрутов
+ в Минской области.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Наладить работу проекта Recycle-a-Bicycle (координация передачи уже ненужных
+ велосипедов детским домам и подобное).
+ 
+\end_layout
+
+\begin_layout Enumerate
+Добиться соблюдения норм по созданию безбарьерной среды на вновь строящихся
+ или капитально ремонтируемых улицах.
+ 
+\end_layout
+
+\begin_layout Standard
+Чего же удалось добиться по итогам 2011 года? 
+\end_layout
+
+\begin_layout Enumerate
+Построить устойчивую организацию практически удалось.
+ Обязательные технические расходы полностью покрываются членскими взносами,
+ еженедельные встречи помогли сформировать 
+\begin_inset Quotes ard
+\end_inset
+
+костяк
+\begin_inset Quotes ald
+\end_inset
+
+ из активистов.
+ 
+\end_layout
+
+\begin_layout Enumerate
+В рядах ОО --- 110 человек.
+ В 10 раз меньше запланированного.
+ Причины --- отсутствие опыта планирования (оценка была завышена), отсутствие
+ внятной членской программы.
+ С другой стороны, небольшой приток людей позволил в спокойной обстановке
+ отладить механизм принятия и учёта членов.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Тема велосипедного транспорта в минских (и республиканских, пишущих о Минске)
+ СМИ плотно занята нашим ОО.
+ Вышло большое количество публикаций по велосипедной тематике, несколько
+ видеосюжетов и видеоинтервью, в том числе на центральных телеканалах, несколько
+ выступлений по радио.
+ ГАИ города регулярно обращается к МВО по велосипедным вопросам.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Концепция развития велосипедного движения принята в конце декабря 2011 года.
+ МВО не принимало активного участия в процессе её продвижения, но помогало
+ консультациями и поддержкой в СМИ.
+ Также МВО принимало участие в реализации пилотного проекта велодорожки
+ по проспекту Независимости в рамках этой концепции.
+ На данный момент налажено сотрудничество с ГАИ Минска и БАЭС по данной
+ теме.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Вхождение в Европейскую велосипедную федерацию было отложено до общего собрания
+ этой организации, которое состоялось 30 марта 2012 года, где МВО и было,
+ наконец, принято в ECF.
+ Теперь мы являемся единственным участником ECF и проекта 
+\begin_inset Quotes ard
+\end_inset
+
+EuroVelo
+\begin_inset Quotes ald
+\end_inset
+
+ в Беларуси.
+ Создание сети турмаршрутов в Минской области не велось, по разным причинам
+ (см.
+ далее).
+ 
+\end_layout
+
+\begin_layout Enumerate
+Проект Recycle-a-Bicycle был благополучно забыт.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Добиться соблюдения норм безбарьерной среды пока не удалось.
+ 
+\end_layout
+
+\begin_layout Standard
+В общем можно констатировать, что планы на 2011 год выполнены в том объёме,
+ который можно было ожидать, учитывая отсутствие опыта работы в общественных
+ организациях большинства активистов.
+\end_layout
+
+\begin_layout Section
+Люди
+\end_layout
+
+\begin_layout Subsection
+Вступление новых членов
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement ht
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename members-joining.eps
+	width 100text%
+
+\end_inset
+
+ 
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Динамика вступления в МВО
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Благодаря низкому вступительному взносу и яркой презентации МВО на 
+\begin_inset Quotes ard
+\end_inset
+
+Открытии сезона-2011
+\begin_inset Quotes ald
+\end_inset
+
+, весной 2011 года к нам присоединилось достаточно большое количество человек.
+ Однако, далее темп снизился, и были месяцы, когда не приходило практически
+ ни одного нового человека.
+ Во многом это обусловлено невнятной членской программой и, вероятно, отсутствие
+м заметной снаружи деятельности.
+\end_layout
+
+\begin_layout Subsection
+Членская программа
+\end_layout
+
+\begin_layout Standard
+С самого начала был введён членский билет в виде пластиковой карточки, стилизова
+нный под водительские права.
+ Это было сделано, в том числе, с расчётом на будущие бонусные программы,
+ возможно с участием партнёров: скидки в магазинах, кафе, велопрокатах,
+ льготное обслуживание в мастерских и т.д.
+ Однако такая программа так и не была проработана и внедрена.
+ Люди, желающие вступить в МВО, делали бы это гораздо охотнее, если бы,
+ кроме защиты интересов, членство давало пусть небольшие, но бонусы иного
+ характера.
+\end_layout
+
+\begin_layout Standard
+Из-за того, что Правление и сложившийся актив МВО практически не имеют опыта
+ публичных акций и кампаний, общество практически не организовывало каких-либо
+ публичных мероприятий, которые демонстрировали бы наши достижения и позволяли
+ вербовать новых членов.
+ Деятельность в настоящий момент проходит в форме переписки или личных контактов
+ с различными людьми и организациями, при этом её результаты не всегда заметны
+ в краткосрочном периоде, что также не способствует привлечению новых людей.
+\end_layout
+
+\begin_layout Section
+Связи с общественностью
+\end_layout
+
+\begin_layout Subsection
+Сайт
+\end_layout
+
+\begin_layout Standard
+Вначале сайт МВО создавался как визитка организации с площадкой обсуждения
+ (форумы), а также с целью технической реализации процессов вступления и
+ членства.
+ С ходом времени на сайте был добавлен раздел 
+\begin_inset Quotes ard
+\end_inset
+
+Документы
+\begin_inset Quotes ald
+\end_inset
+
+ для публикации официальной переписки объединения, переписки его членов,
+ стандартов, других документов.
+ Также получила развитие лента новостей, в которой публикуются в основном
+ собственные материалы, касающиеся деятельности ОО и велотранспортной тематики.
+ С осени 2011 года в МВО появился журналист, с целью сделать новости более
+ регулярными и качественными.
+ На данный момент эта роль является волонтёрской, из-за чего несколько страдает
+ оперативность.
+ Лента новостей МВО мониторится некоторыми СМИ, интересующимися велосипедной
+ тематикой, что можно рассматривать как наше достижение.
+\end_layout
+
+\begin_layout Standard
+Больное место сайта --- дизайн.
+ Среди волонтёров найти дизайнера не удалось, а на оплату услуг профессионала
+ пока нет средств.
+ Первоначально дизайн был сделан силами веб-программистов.
+ Встречалось большое количество отзывов на тему плохого дизайна, в первую
+ очередь 
+\begin_inset Quotes ard
+\end_inset
+
+шапки
+\begin_inset Quotes ald
+\end_inset
+
+, а также нестыковок и недоработок как в функциональной части, так и в содержате
+льной (плохой перевод или его отсутствие, неработоспособность каких-то компонент
+ов, неудобство использования форума и др.).
+\end_layout
+
+\begin_layout Standard
+В конце 2011 года был произведён небольшой редизайн, лента новостей была
+ помещена на главную страницу, произведены другие небольшие улучшения.
+\end_layout
+
+\begin_layout Standard
+Изначально сайт был задуман как площадка, открытая для добавления контента
+ (сообщений, комментариев) лишь членам МВО.
+ На протяжении года несколько раз поднимался вопрос о том, не стоит ли разрешить
+ свободный доступ всем желающим для оживления сайта и стимулирования дискуссий,
+ однако пока всё осталось по-прежнему, в основном по техническим причинам
+ (проблемы модерации, спама, 
+\begin_inset Quotes ard
+\end_inset
+
+набегов
+\begin_inset Quotes ald
+\end_inset
+
+ идейных противников и др.).
+\end_layout
+
+\begin_layout Standard
+В ближайшем будущем планируется небольшая реструктуризация сайта (разделы,
+ выделение страниц/разделов на информацию о проектах, чёткая структура информаци
+и для членов ОО: взносы, членская программа и т.д.).
+\end_layout
+
+\begin_layout Standard
+Вопрос дизайна остаётся открытым.
+\end_layout
+
+\begin_layout Subsection
+СМИ
+\end_layout
+
+\begin_layout Standard
+Заметный интерес СМИ к нашему объединению показал, что, действительно, до
+ сих пор не было достаточно авторитетного и заметного источника информации
+ на велотранспортную тематику.
+ Налажено постоянное сотрудничество с сайтами 
+\begin_inset Quotes ard
+\end_inset
+
+Авто-Онлайнер
+\begin_inset Quotes ald
+\end_inset
+
+, TUT.BY.
+ Выходили различные материалы в других СМИ, несколько раз представители
+ МВО принимали участие в записи теле- и радио-передач, в прямых эфирах 
+\begin_inset Quotes ard
+\end_inset
+
+Радио-Минск
+\begin_inset Quotes ald
+\end_inset
+
+, 
+\begin_inset Quotes ard
+\end_inset
+
+TUT.BY-TV
+\begin_inset Quotes ald
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Как уже говорилось, лента новостей МВО регулярно читается журналистами,
+ в некоторых случаях новость, опубликованная на нашем сайте, распространяется
+ по байнету уже в течение нескольких часов после публикации.
+\end_layout
+
+\begin_layout Standard
+К сожалению, на данный момент в организации отсутствует пресс-секретарь
+ или какой-либо специалист по связям с общественностью, что заметно ухудшает
+ качество взаимодействия со СМИ.
+\end_layout
+
+\begin_layout Section
+Деятельность
+\end_layout
+
+\begin_layout Subsection
+Акции
+\end_layout
+
+\begin_layout Paragraph
+Праздник 
+\begin_inset Quotes ard
+\end_inset
+
+Открытие сезона-2011
+\begin_inset Quotes ald
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Мероприятие организовывалось сообществом 
+\begin_inset Quotes ard
+\end_inset
+
+Поехали!
+\begin_inset Quotes ald
+\end_inset
+
+.
+ Представители МВО приняли участие в организации праздника в роли волонтёров.
+ Во время самого мероприятия МВО организовало бесплатный техосмотр велосипедов
+ для всех желающих, наши самовар и добровольные механики пользовались большим
+ спросом.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement O
+overhang 0col%
+width "50col%"
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename bikeopen-2012.jpg
+	width 100text%
+
+\end_inset
+
+
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Открытие сезона-2011
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Еженедельные встречи.
+\end_layout
+
+\begin_layout Standard
+Неформальные встречи МВО начали проводиться с мая 2011 года и, практически
+ без перерывов, проходят и по сей день.
+ В тёплый сезон мы собирались в парке Горького, в холодный --- в офисе.
+ Эти встречи, кроме приятного времяпрепровождения и общения, позволили собрать
+ более-менее постоянный актив.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "50col%"
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename weekly-meeting.jpg
+	width 100text%
+
+\end_inset
+
+
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Встречи в парке
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Акция 
+\begin_inset Quotes ard
+\end_inset
+
+Сделаем велодорожку безопаснее
+\begin_inset Quotes ald
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Акция проходила в июне 2011 года, велосипедисты оклеивали световозвращающими
+ наклейками опасные ограждения велосипедной дорожки вдоль Свислочи.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "50col%"
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename y_b19e375b.jpg
+	height 50theight%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Quotes ard
+\end_inset
+
+Сделаем велодорожку безопаснее
+\begin_inset Quotes ald
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Участие в Велофоруме-2011, Киев.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "50col%"
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename veloforum.jpg
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Велофорум, Киев
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Участие в первом белорусском Велофоруме, Гродно.
+\end_layout
+
+\begin_layout Paragraph
+Муві-фэст 
+\begin_inset Quotes ard
+\end_inset
+
+Роварныя стужкі
+\begin_inset Quotes ald
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Paragraph
+Вступление в 
+\begin_inset Quotes ard
+\end_inset
+
+Зелёную сеть
+\begin_inset Quotes ald
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Paragraph
+Вступление в ECF.
+\end_layout
+
+\begin_layout Paragraph
+Участие в пилотном проекте 
+\begin_inset Quotes ard
+\end_inset
+
+Велодорожка по проспекту Независимости
+\begin_inset Quotes ald
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Paragraph
+Безбарьерная среда
+\end_layout
+
+\begin_layout Paragraph
+Проект TANDEM.
+\end_layout
+
+\begin_layout Paragraph
+Карта препятствий.
+\end_layout
+
+\begin_layout Paragraph
+Защита интересов.
+\end_layout
+
+\begin_layout Section
+Финансирование
+\end_layout
+
+\end_body
+\end_document
